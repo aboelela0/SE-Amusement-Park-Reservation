@@ -1,5 +1,3 @@
-# SE-Amusement-Park-Reservation
-Here is a suggested README for your **Online Amusement Park Reservation System** software engineering project, based on the document you provided:
 
 ---
 
@@ -8,11 +6,6 @@ Here is a suggested README for your **Online Amusement Park Reservation System**
 ## 📌 Overview
 
 This project is a web-based **Online Amusement Park Reservation System** designed to streamline ticket bookings, manage park information, and provide a user-friendly platform for both administrators and customers. Developed as part of a Software Engineering group assignment, the system ensures ease of access, reduces manual paperwork, and facilitates a secure, efficient reservation process.
-
-## 👨‍💻 Team
-
-**Group 7**
-\[Include team members' names here]
 
 ## 🚀 Features
 
@@ -77,3 +70,4 @@ This project is a web-based **Online Amusement Park Reservation System** designe
 
 Full project documentation including system design, data flow diagrams, ER diagrams, and test cases can be found in the \[Project Report Document].
 
+---
